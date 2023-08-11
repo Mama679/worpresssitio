@@ -2,5 +2,7 @@
 
 get_header(); 
 ?>
-<h1>Inicio</h1>
+<div class="container-fluid">
+  ...
+</div>
 <?php get_footer();?>
